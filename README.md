@@ -11,9 +11,6 @@
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
   <img src="https://img.shields.io/badge/Rust-000000?style=for-the-badge&logo=rust&logoColor=white" alt="Rust">
   <img src="https://img.shields.io/badge/NixOS-5277C3?style=for-the-badge&logo=NixOS&logoColor=white" alt="NixOS">
-  <a href="https://bodierubacher.com">
-    <img src="https://img.shields.io/badge/Website-bodierubacher.com-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Website">
-  </a>
 </p>
 
 [![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bodier123&layout=compact&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
